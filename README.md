@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
   <!-- Encabezado / Banner animado o Título -->
   <h1>Hola 👋, soy <a href="https://linkedin.com" target="_blank">Javier Méndez</a></h1>
