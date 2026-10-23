@@ -31,8 +31,8 @@
   - Estudiante de **Ingeniería Informática** en la Universidad de Murcia.
   - Especialización en **Inteligencia Artificial y Big Data** en el IES Carlos III.
 - 💼 **Experiencia:** 1 año como **Junior Backend Developer** (Docker, CI/CD, despliegues Cloud, APIs REST).
-- 🏋️‍♂️ **Intereses:** Fuerza y entrenamiento en el gimnasio, videojuegos de competición (*PUBG*, *Valorant*) y optimización de software.
-- 🎯 **Objetivo:** Seguir creciendo en arquitecturas sólidas, integración de modelos de IA y sistemas escalables.
+- 🏋️‍♂️ **Intereses:** Fuerza y entrenamiento en el gimnasio, shooters competitivos y optimización de software.
+- 🎯 **Objetivo:** Consolidar mi carrera en el desarrollo de software mediante el diseño de arquitecturas sólidas, sistemas altamente escalables y la integración efectiva de modelos de IA.
 
 ---
 
