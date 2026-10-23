@@ -7,10 +7,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario" target="_blank">
+  <a href="https://github.com/javimendz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+  <a href="mailto:javiermendez.dev00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -112,7 +112,7 @@
 
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/" target="blank">
+  <a href="https://www.linkedin.com/in/javiermendz/" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" />
   </a>
 </p>
