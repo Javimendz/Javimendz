@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javier%20M%C3%A9ndez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer&descSize=20&descAlignY=58" alt="Cabecera" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;Aprendiendo+Go+y+an%C3%A1lisis+de+datos+con+pandas;IA+%26+Big+Data+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;IA+%26+Big+Data" alt="Typing SVG" />
 
 <br><br>
 
