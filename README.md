@@ -1,8 +1,8 @@
 ## Hi there 👋
 <div align="center">
   <!-- Encabezado / Banner animado o Título -->
-  <h1>Hola 👋, soy <a href="https://linkedin.com" target="_blank">Javier Méndez Terrones</a></h1>
-  <h3>Junior Backend & Full Stack Software Developer 🚀</h3>
+  <h1>Hola 👋, soy <a href="https://linkedin.com" target="_blank">Javier Méndez</a></h1>
+  <h3>Junior Full Stack Software Developer 🚀</h3>
 
   <p align="center">
     Desarrollador de software afincado en Murcia, España 🇪🇸.<br>
