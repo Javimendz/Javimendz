@@ -1,132 +1,117 @@
+<!-- ============================================================
+  README de perfil de GitHub. Las secciones comentadas con
+  "<!-- ... -->" no se ven: descomenta las que rellenes.
+  Marcadas con "VERIFICA" hay datos que debes confirmar que son
+  ciertos y que puedes defender en una entrevista.
+============================================================ -->
 
 <div align="center">
-  <h1 align="center">Hola 👋, soy Javier Méndez</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Backend+Developer;Ingeniería+Informática+UMU;IA+&+Big+Data+Enthusiast&center=true&width=420&height=45">
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javier%20M%C3%A9ndez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer&descSize=20&descAlignY=58" alt="Cabecera" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;Aprendiendo+Go+y+an%C3%A1lisis+de+datos+con+pandas;IA+%26+Big+Data+Enthusiast" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/javiermendz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:javiermendez.dev00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/javimendz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Disponible_para_trabajar-Backend-2ea44f?style=flat-square" alt="Disponible" />
+<img src="https://img.shields.io/badge/Modalidad-Remoto-blue?style=flat-square" alt="Remoto" />
+<img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol_%C2%B7_Ingl%C3%A9s-orange?style=flat-square" alt="Idiomas" />
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/javiermendz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:javiermendez.dev00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
 
-<hr>
+## 👋 Sobre mí
 
-<pre>
-💻 Junior Backend Developer, apasionado por las arquitecturas sólidas y sistemas escalables.
-🎓 Formación: Técnico Superior en DAM, Estudiante de Ingeniería Informática (UMU) y Especialización en IA & Big Data.
-🌟 Stack principal: Java (Spring Boot 3), TypeScript/Node.js (NestJS), C# y Python.
-💼 Experiencia: 1 año en desarrollo backend trabajando con Docker, despliegues Cloud y pipelines CI/CD.
-🚩 Intereses: Arquitectura de software, procesamiento de datos/IA aplicada y optimización de rendimiento.
-⚡ Dato curioso: El código limpio y la mejora continua son mi mejor rutina (tanto en la pantalla como en el gimnasio 🏋️‍♂️).
-👯 Busco colaborar en proyectos desafiantes donde pueda aportar valor y seguir aprendiendo.
+Desarrollador backend junior, apasionado por las arquitecturas sólidas, las APIs bien diseñadas y los sistemas escalables. Busco un equipo donde aprender de perfiles con más experiencia, trabajar en proyectos reales y crecer.
 
-</pre>
+| | |
+|---|---|
+| 🎓 **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA & Big Data <!-- VERIFICA: título y estado de cada estudio --> |
+| 💼 **Experiencia** | 1 año en desarrollo backend con Docker, despliegues cloud y pipelines CI/CD <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
+| 🧱 **Prácticas duales** | 8 meses con Angular y TypeScript <!-- AÑADE: qué construiste o corregiste --> |
+| 🎯 **Busco** | Mi próximo puesto como desarrollador backend, preferiblemente en remoto |
+| 🌱 **Aprendiendo ahora** | Go, y análisis de datos con pandas y NumPy |
+| 📚 **Me interesa** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
+| ⚡ **Dato curioso** | El código limpio y la mejora continua son mi rutina, en la pantalla y en el gimnasio 🏋️‍♂️ |
 
-<hr>
+---
 
-<h3 align="center">Lenguajes</h3>
-<p align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java_21-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c-sharp"/>
-  </a>
-</p>
+## 🛠️ Stack
 
-<h3 align="center">Backend & Bases de Datos</h3>
-<p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a>
-</p>
+**Lenguajes**
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,cs&perline=10" alt="Lenguajes" />
 
-<h3 align="center">Herramientas & Entornos</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="intellij"/>
-  </a>
-  <a href="https://www.postman.com" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="android studio"/>
-  </a>
-</p>
+**Backend y bases de datos**
 
-<h3 align="center">🛠 &nbsp;Tech Stack Resumen</h3>
+<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,postgres&perline=10" alt="Backend" />
+
+**DevOps y cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions&perline=10" alt="DevOps" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,androidstudio&perline=10" alt="Herramientas" />
+
+**Aprendiendo**
+
+<img src="https://skillicons.dev/icons?i=go,pandas,numpy&perline=10" alt="Aprendiendo" />
+
+---
+
+<!-- ============================================================
+## 🚀 Proyectos destacados
+
+Descomenta y rellena con tus proyectos reales. Con 2 o 3 bien
+explicados (qué hace, con qué tecnologías, cómo ejecutarlo) basta.
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Java, Spring Boot, PostgreSQL, Docker |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Go, PostgreSQL |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Python, pandas |
+============================================================ -->
+
+## 📊 Actividad en GitHub
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">&nbsp;
-  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F">&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB">&nbsp;
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120">&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1">&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032">&nbsp;
-  <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84">&nbsp;
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=javimendz&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javimendz&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="170" />
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/javimendz/javimendz/output/grid-snake.svg" alt="snake" />
+<img src="https://streak-stats.demolab.com/?user=javimendz&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/javimendz/javimendz/output/grid-snake.svg" alt="snake" />
+
 </div>
 
-<h3 align="center">Conecta conmigo:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/javiermendz/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javimendz&show_icons=true&theme=tokyonight&locale=en" alt="github-stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javimendz&theme=tokyonight" alt="github-streak" />
-</p>
+### 🤝 Conecta conmigo
+
+¿Tienes un proyecto o una oferta backend? Escríbeme por [LinkedIn](https://www.linkedin.com/in/javiermendz/) o a [javiermendez.dev00@gmail.com](mailto:javiermendez.dev00@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Pie" />
+
+</div>
+
+
+
+
 
 
 
