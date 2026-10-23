@@ -1,9 +1,4 @@
-<!-- ============================================================
-  README de perfil de GitHub. Las secciones comentadas con
-  "<!-- ... -->" no se ven: descomenta las que rellenes.
-  Marcadas con "VERIFICA" hay datos que debes confirmar que son
-  ciertos y que puedes defender en una entrevista.
-============================================================ -->
+
 
 <div align="center">
 
@@ -67,7 +62,6 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 
 ---
 
-<!-- ============================================================
 ## 🚀 Proyectos destacados
 
 Descomenta y rellena con tus proyectos reales. Con 2 o 3 bien
@@ -75,10 +69,7 @@ explicados (qué hace, con qué tecnologías, cómo ejecutarlo) basta.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Java, Spring Boot, PostgreSQL, Docker |
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Go, PostgreSQL |
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Python, pandas |
-============================================================ -->
+| [Skynet](https://github.com/javimendz/skynet) | Gestión de Gimnasios | Java, Spring Boot, PostgreSQL, Docker |
 
 ## 📊 Actividad en GitHub
 
