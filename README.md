@@ -63,8 +63,7 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 
 ## 🚀 Proyectos destacados
 
-Descomenta y rellena con tus proyectos reales. Con 2 o 3 bien
-explicados (qué hace, con qué tecnologías, cómo ejecutarlo) basta.
+
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
