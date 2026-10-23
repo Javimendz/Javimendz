@@ -30,7 +30,6 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 |---|---|
 | 🎓 **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA & Big Data <!-- VERIFICA: título y estado de cada estudio --> |
 | 💼 **Experiencia** | 1 año en desarrollo backend con Docker, despliegues cloud y pipelines CI/CD <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
-| 🧱 **Prácticas duales** | 8 meses con Angular y TypeScript <!-- AÑADE: qué construiste o corregiste --> |
 | 🎯 **Busco** | Mi próximo puesto como desarrollador backend, preferiblemente en remoto |
 | 🌱 **Aprendiendo ahora** | Go, y análisis de datos con pandas y NumPy |
 | 📚 **Me interesa** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
