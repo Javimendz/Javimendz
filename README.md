@@ -107,9 +107,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/javimendz">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
+  <img src="https://raw.githubusercontent.com/javimendz/javimendz/output/grid-snake.svg" alt="snake" />
 </div>
 
 <h3 align="center">Conecta conmigo:</h3>
