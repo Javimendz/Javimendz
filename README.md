@@ -6,7 +6,7 @@
 
   <p align="center">
     Desarrollador de software afincado en Murcia, España 🇪🇸.<br>
-    Apasionado por el desarrollo backend eficiente, arquitecturas limpias y tecnologías de Inteligencia Artificial.
+    Apasionado por el desarrollo eficiente, arquitecturas limpias y tecnologías de Inteligencia Artificial.
   </p>
 
   <!-- Badges de Estado y Redes Sociales -->
