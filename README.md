@@ -18,11 +18,14 @@
 <hr>
 
 <pre>
-💻 Apasionado por el desarrollo backend, arquitecturas sólidas y sistemas escalables.
-🌟 Lenguajes principales: Java (Spring Boot), TypeScript/JavaScript, C#, Python.
-🚩 Intereses: Arquitectura de software, optimización de backend e Inteligencia Artificial.
+💻 Junior Backend Developer, apasionado por las arquitecturas sólidas y sistemas escalables.
+🎓 Formación: Técnico Superior en DAM, Estudiante de Ingeniería Informática (UMU) y Especialización en IA & Big Data.
+🌟 Stack principal: Java (Spring Boot 3), TypeScript/Node.js (NestJS), C# y Python.
+💼 Experiencia: 1 año en desarrollo backend trabajando con Docker, despliegues Cloud y pipelines CI/CD.
+🚩 Intereses: Arquitectura de software, procesamiento de datos/IA aplicada y optimización de rendimiento.
 ⚡ Dato curioso: El código limpio y la mejora continua son mi mejor rutina (tanto en la pantalla como en el gimnasio 🏋️‍♂️).
 👯 Busco colaborar en proyectos desafiantes donde pueda aportar valor y seguir aprendiendo.
+
 </pre>
 
 <hr>
