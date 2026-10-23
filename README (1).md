@@ -1,9 +1,4 @@
-<!-- ============================================================
-  README de perfil de GitHub. Las secciones comentadas con
-  "<!-- ... -->" no se ven: descomenta las que rellenes.
-  Marcadas con "VERIFICA" hay datos que debes confirmar que son
-  ciertos y que puedes defender en una entrevista.
-============================================================ -->
+
 
 <div align="center">
 
