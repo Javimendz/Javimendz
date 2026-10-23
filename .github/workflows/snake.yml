@@ -1,1 +1,44 @@
 
+name: Generate Animation
+
+# Cuándo se ejecutará la acción (automáticamente)
+on:
+  schedule:
+    # Se ejecuta cada 6 horas
+    - cron: "0 */6 * * *"
+  
+  # Permite ejecutarlo manualmente desde la pestaña "Actions" de tu repositorio
+  workflow_dispatch:
+  
+  # Se ejecuta también cada vez que hagas un push a la rama main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Jobs to update data
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Clona tu repositorio
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Genera el archivo SVG de la serpiente
+      - name: Generate contribution grid snake svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: javimendz
+          outputs: |
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
+            
+      # 3. Sube el archivo generado a una rama llamada 'output'
+      - name: Push generated SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
