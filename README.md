@@ -27,12 +27,12 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 **Formación:** 
-  - Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** (Nota media: *8.93*).
+  - Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
   - Estudiante de **Ingeniería Informática** en la Universidad de Murcia.
-  - Especialización en **Inteligencia Artificial y Big Data** en el IES Carlos III (Cartagena).
+  - Especialización en **Inteligencia Artificial y Big Data** en el IES Carlos III.
 - 💼 **Experiencia:** 1 año como **Junior Backend Developer** (Docker, CI/CD, despliegues Cloud, APIs REST).
 - 🏋️‍♂️ **Intereses:** Fuerza y entrenamiento en el gimnasio, videojuegos de competición (*PUBG*, *Valorant*) y optimización de software.
-- 🎯 **Objetivo:** Seguir creciendo en arquitectura backend sólida, integración de modelos de IA y sistemas escalables.
+- 🎯 **Objetivo:** Seguir creciendo en arquitecturas sólidas, integración de modelos de IA y sistemas escalables.
 
 ---
 
@@ -73,8 +73,14 @@
 
 <table>
   <tr>
-    <td width="50%">
+   <td width="50%">
       <h3 align="center">🏋️‍♂️ Skynet - Gym Management Platform</h3>
       <p>
-        Plataforma integral de gestión de gimnasios y entrenamientos. Desarrollada con arquitectura de microservicios / backend robusto y aplicación móvil.
+        Plataforma integral de gestión de gimnasios y entrenamientos. Desarrollada con arquitectura MVC / backend robusto y aplicación móvil.
       </p>
+      <p>
+        - <strong>Backend:</strong> Java 21, Spring Boot 3<br>
+        - <strong>Mobile:</strong> Android Studio<br>
+        - <strong>DB:</strong> PostgreSQL
+      </p>
+    </td>
