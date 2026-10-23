@@ -120,11 +120,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&locale=en" alt="github-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javimendz&show_icons=true&theme=tokyonight&locale=en" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" alt="github-streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javimendz&theme=tokyonight" alt="github-streak" />
 </p>
 
 
