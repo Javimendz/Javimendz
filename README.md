@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javier%20M%C3%A9ndez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer&descSize=20&descAlignY=58" alt="Cabecera" />
+<img src="header.svg" alt="Javier Méndez, Junior Backend Developer" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;IA+%26+Big+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;Aprendiendo+Go+y+an%C3%A1lisis+de+datos+con+pandas;IA+%26+Big+Data+Enthusiast" alt="Typing SVG" />
 
 <br><br>
 
@@ -15,12 +15,12 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Disponible_para_trabajar-Backend-2ea44f?style=flat-square" alt="Disponible" />
-<img src="https://img.shields.io/badge/Modalidad-Cualquiera-blue?style=flat-square" alt="Modalidad: cualquiera" />
+<img src="https://img.shields.io/badge/Modalidad-Remoto-blue?style=flat-square" alt="Remoto" />
 <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol_%C2%B7_Ingl%C3%A9s-orange?style=flat-square" alt="Idiomas" />
 
 </div>
 
----
+<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
 
 ## 👋 Sobre mí
 
@@ -30,12 +30,13 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 |---|---|
 | 🎓 **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA & Big Data <!-- VERIFICA: título y estado de cada estudio --> |
 | 💼 **Experiencia** | 1 año en desarrollo backend con Docker, despliegues cloud y pipelines CI/CD <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
+| 🧱 **Prácticas duales** | 8 meses con Angular y TypeScript <!-- AÑADE: qué construiste o corregiste --> |
 | 🎯 **Busco** | Mi próximo puesto como desarrollador backend, preferiblemente en remoto |
-| 🌱 **Aprendiendo ahora** | Python, c# y análisis de datos con pandas y NumPy |
+| 🌱 **Aprendiendo ahora** | Go, y análisis de datos con pandas y NumPy |
 | 📚 **Me interesa** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
 | ⚡ **Dato curioso** | El código limpio y la mejora continua son mi rutina, en la pantalla y en el gimnasio 🏋️‍♂️ |
 
----
+<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
 
 ## 🛠️ Stack
 
@@ -61,13 +62,18 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 
 ---
 
+<!-- ============================================================
 ## 🚀 Proyectos destacados
 
-
+Descomenta y rellena con tus proyectos reales. Con 2 o 3 bien
+explicados (qué hace, con qué tecnologías, cómo ejecutarlo) basta.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Skynet](https://github.com/javimendz/skynet) | Gestión de Gimnasios | Java, Spring Boot, PostgreSQL, Docker |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Java, Spring Boot, PostgreSQL, Docker |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Go, PostgreSQL |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Python, pandas |
+============================================================ -->
 
 ## 📊 Actividad en GitHub
 
@@ -86,7 +92,7 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 
 </div>
 
----
+<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
 
 <div align="center">
 
@@ -94,15 +100,6 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 
 ¿Tienes un proyecto o una oferta backend? Escríbeme por [LinkedIn](https://www.linkedin.com/in/javiermendz/) o a [javiermendez.dev00@gmail.com](mailto:javiermendez.dev00@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Pie" />
+<img src="divider.svg" alt="" width="100%" />
 
 </div>
-
-
-
-
-
-
-
-
-
