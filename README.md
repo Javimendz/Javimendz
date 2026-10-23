@@ -15,7 +15,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Disponible_para_trabajar-Backend-2ea44f?style=flat-square" alt="Disponible" />
-<img src="https://img.shields.io/badge/Modalidad-Remoto-blue?style=flat-square" alt="Cualquiera" />
+<img src="https://img.shields.io/badge/Modalidad-Cualquiera-blue?style=flat-square" alt="Modalidad: cualquiera" />
 <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol_%C2%B7_Ingl%C3%A9s-orange?style=flat-square" alt="Idiomas" />
 
 </div>
