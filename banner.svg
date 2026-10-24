@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <!-- Fondo: gradiente en escala de grises (sólido y profundo) -->
+    <linearGradient id="bgGradBW" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="55%" stop-color="#1E1E1E"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </linearGradient>
+
+    <!-- Acento monocromo (blanco → gris claro) -->
+    <linearGradient id="accentGradBW" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#D4D4D4"/>
+      <stop offset="100%" stop-color="#8A8A8A"/>
+    </linearGradient>
+
+    <!-- Texto principal -->
+    <linearGradient id="textGradBW" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#BFBFBF"/>
+    </linearGradient>
+
+    <!-- Resplandor sutil en blanco -->
+    <filter id="glowBW" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="lineClipBW">
+      <rect x="0" y="0" width="1200" height="340"/>
+    </clipPath>
+
+    <!-- Rejilla sutil en gris -->
+    <pattern id="gridBW" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="340" rx="18" fill="url(#bgGradBW)"/>
+
+  <!-- Rejilla animada -->
+  <rect width="1200" height="340" fill="url(#gridBW)">
+    <animate attributeName="x" from="0" to="40" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Borde luminoso animado -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="none"
+        stroke="url(#accentGradBW)" stroke-width="2" opacity="0.85">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Barra lateral de acento -->
+  <rect x="0" y="0" width="10" height="340" fill="url(#accentGradBW)"/>
+
+  <!-- Avatar / Monograma -->
+  <g transform="translate(90, 120)">
+    <circle cx="50" cy="50" r="48" fill="#0F0F0F" stroke="url(#accentGradBW)" stroke-width="3" filter="url(#glowBW)">
+      <animate attributeName="r" values="48;50;48" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="50" y="63" text-anchor="middle"
+          font-family="'Fira Code', 'Segoe UI', monospace"
+          font-size="34" font-weight="700" fill="#FFFFFF">JM</text>
+  </g>
+
+  <!-- Nombre -->
+  <text x="200" y="140"
+        font-family="'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif"
+        font-size="52" font-weight="800" fill="url(#textGradBW)"
+        letter-spacing="1.5">
+    Javier Méndez
+    <animate attributeName="opacity" values="0.92;1;0.92" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtítulo -->
+  <text x="202" y="182"
+        font-family="'Fira Code', 'Segoe UI', monospace"
+        font-size="21" font-weight="500" fill="#B0B0B0"
+        letter-spacing="0.8">
+    Junior Backend Developer
+  </text>
+
+  <!-- Stack: badges en escala de grises con fade escalonado -->
+  <g font-family="'Fira Code', monospace" font-size="15" font-weight="600" fill="#0B0B0B">
+    <g transform="translate(200, 218)">
+      <rect width="98" height="34" rx="17" fill="#F2F2F2">
+        <animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="49" y="23" text-anchor="middle">Java</text>
+    </g>
+    <g transform="translate(310, 218)">
+      <rect width="140" height="34" rx="17" fill="#DADADA">
+        <animate attributeName="opacity" values="0;1" begin="0.45s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="70" y="23" text-anchor="middle">Spring Boot</text>
+    </g>
+    <g transform="translate(462, 218)">
+      <rect width="130" height="34" rx="17" fill="#C4C4C4">
+        <animate attributeName="opacity" values="0;1" begin="0.7s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="65" y="23" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(604, 218)">
+      <rect width="96" height="34" rx="17" fill="#EDEDED">
+        <animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="48" y="23" text-anchor="middle">Python</text>
+    </g>
+    <g transform="translate(712, 218)">
+      <rect width="72" height="34" rx="17" fill="#B5B5B5">
+        <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="36" y="23" text-anchor="middle">C#</text>
+    </g>
+    <g transform="translate(796, 218)">
+      <rect width="150" height="34" rx="17" fill="#E0E0E0">
+        <animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="75" y="23" text-anchor="middle">IA · Big Data</text>
+    </g>
+  </g>
+
+  <!-- Línea de barrido animada -->
+  <g clip-path="url(#lineClipBW)" opacity="0.75">
+    <rect x="-300" y="300" width="260" height="3" fill="url(#accentGradBW)">
+      <animate attributeName="x" from="-300" to="1200" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Puntos de acento animados (esquina) -->
+  <circle cx="1160" cy="40" r="4" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1130" cy="40" r="4" fill="#8A8A8A">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
