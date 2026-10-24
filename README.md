@@ -1,104 +1,63 @@
+<!-- ============================================================
+  README de perfil de GitHub (versión sobria y profesional).
+  Los comentarios "VERIFICA" no se ven en la página: confirma
+  que esos datos son ciertos y que puedes defenderlos en una
+  entrevista. La sección de proyectos está comentada: descoméntala
+  cuando tengas proyectos reales que enseñar.
+============================================================ -->
 
+# Javier Méndez
 
-<div align="center">
+**Junior Backend Developer**
 
-<img src="header.svg" alt="Javier Méndez, Junior Backend Developer" width="100%" />
+Desarrollador backend junior con formación en DAM e Ingeniería Informática (UMU) y especialización en IA y Big Data. Me interesa diseñar APIs claras, escribir código mantenible y entender cómo escalan los sistemas. Busco mi próximo puesto como desarrollador backend, en cualquier modalidad.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;IA+%26+Big+Data" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiermendz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:javiermendez.dev00@gmail.com)
+![Disponible](https://img.shields.io/badge/Disponible-Backend-2ea44f?style=flat-square)
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/javiermendz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:javiermendez.dev00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/javimendz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Disponible_para_trabajar-Backend-2ea44f?style=flat-square" alt="Disponible" />
-<img src="https://img.shields.io/badge/Modalidad-Cualquiera-blue?style=flat-square" alt="Modalidad: cualquiera" />
-<img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol_%C2%B7_Ingl%C3%A9s-orange?style=flat-square" alt="Idiomas" />
-
-</div>
-
-<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
-
-## 👋 Sobre mí
-
-Desarrollador backend junior, apasionado por las arquitecturas sólidas, las APIs bien diseñadas y los sistemas escalables. Busco un equipo donde aprender de perfiles con más experiencia, trabajar en proyectos reales y crecer.
+## Perfil
 
 | | |
 |---|---|
-| 🎓 **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA & Big Data <!-- VERIFICA: título y estado de cada estudio --> |
-| 💼 **Experiencia** | 1 año en desarrollo backend con Docker, despliegues cloud y pipelines CI/CD <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
-| 🎯 **Busco** | Mi próximo puesto como desarrollador backend, preferiblemente en remoto |
-| 🌱 **Aprendiendo ahora** | Go, y análisis de datos con pandas y NumPy |
-| 📚 **Me interesa** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
-| ⚡ **Dato curioso** | El código limpio y la mejora continua son mi rutina, en la pantalla y en el gimnasio 🏋️‍♂️ |
+| **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA y Big Data <!-- VERIFICA: título y estado de cada estudio --> |
+| **Experiencia** | 1 año en desarrollo backend con Docker, despliegues cloud y pipelines CI/CD <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
+| **Idiomas** | Español · Inglés <!-- VERIFICA: añade tu nivel de inglés (por ejemplo B2) --> |
+| **Intereses** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
+| **Aprendiendo** | Go, y análisis de datos con pandas y NumPy |
 
-<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
+## Stack técnico
 
-## 🛠️ Stack
+| Área | Tecnologías |
+|---|---|
+| **Lenguajes** | Java 21, TypeScript, JavaScript, Python, C# |
+| **Backend** | Spring Boot 3, NestJS, Node.js |
+| **Bases de datos** | PostgreSQL |
+| **DevOps** | Docker, Git, GitHub Actions |
+| **Herramientas** | IntelliJ IDEA, VS Code, Postman, Android Studio |
 
-**Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,cs&perline=10" alt="Lenguajes" />
-
-**Backend y bases de datos**
-
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,postgres&perline=10" alt="Backend" />
-
-**DevOps y cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions&perline=10" alt="DevOps" />
-
-**Herramientas**
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,androidstudio&perline=10" alt="Herramientas" />
-
-**Aprendiendo**
-
-<img src="https://skillicons.dev/icons?i=go,pandas,numpy&perline=10" alt="Aprendiendo" />
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,py,cs,postgres,docker,git,githubactions&perline=10" alt="Tecnologías principales" />
+</p>
 
 <!-- ============================================================
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-Descomenta y rellena con tus proyectos reales. Con 2 o 3 bien
-explicados (qué hace, con qué tecnologías, cómo ejecutarlo) basta.
+Con dos o tres bien explicados basta: qué hace, con qué tecnologías
+y cómo ejecutarlo. Enlaza cada uno a su repositorio.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Java, Spring Boot, PostgreSQL, Docker |
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Go, PostgreSQL |
-| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve en una línea | Python, pandas |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve, en una línea | Java, Spring Boot, PostgreSQL, Docker |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve, en una línea | Go, PostgreSQL |
+| [Nombre](https://github.com/javimendz/repo) | Qué problema resuelve, en una línea | Python, pandas |
 ============================================================ -->
 
-## 📊 Actividad en GitHub
+## Contacto
 
-<div align="center">
+- LinkedIn: [javiermendz](https://www.linkedin.com/in/javiermendz/)
+- Email: [javiermendez.dev00@gmail.com](mailto:javiermendez.dev00@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=javimendz&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javimendz&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="170" />
+## In English
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=javimendz&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/javimendz/javimendz/output/grid-snake.svg" alt="snake" />
-
-</div>
-
-<div align="center"><img src="divider.svg" alt="" width="100%" /></div>
-
-<div align="center">
-
-### 🤝 Conecta conmigo
-
-¿Tienes un proyecto o una oferta backend? Escríbeme por [LinkedIn](https://www.linkedin.com/in/javiermendz/) o a [javiermendez.dev00@gmail.com](mailto:javiermendez.dev00@gmail.com).
-
-<img src="divider.svg" alt="" width="100%" />
-
-</div>
+Junior backend developer with a background in multiplatform application development (DAM), computer engineering (UMU) and a specialization in AI and Big Data. I work with Java (Spring Boot), TypeScript (NestJS), Python and C#, and I am currently learning Go. I am looking for my next backend role, remote or on-site.
