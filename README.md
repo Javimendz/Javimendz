@@ -38,7 +38,7 @@ Desarrollador backend junior, apasionado por las arquitecturas sólidas, las API
 |---|---|
 | 🎓 **Formación** | Técnico Superior en DAM · Ingeniería Informática (UMU) · Especialización en IA & Big Data <!-- VERIFICA: título y estado de cada estudio --> |
 | 💼 **Experiencia** | Un año en desarrollo backend <!-- VERIFICA: cuánto fue prácticas y cuánto trabajo; sé preciso --> |
-| 🎯 **Busco** | Oportunidades como desarrollador backend · Software Developert |
+| 🎯 **Busco** | Oportunidades como desarrollador backend · Software Developer |
 | 📚 **Me interesa** | Arquitectura de software, optimización de rendimiento, procesamiento de datos e IA aplicada |
 | 🗣️ **Idiomas** | Español · Inglés <!-- VERIFICA: añade tu nivel de inglés (por ejemplo B2) --> |
 | ⚡ **Dato curioso** | El código limpio y la mejora continua son mi rutina, en la pantalla y en el gimnasio 🏋️‍♂️ |
