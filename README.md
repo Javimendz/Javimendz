@@ -9,7 +9,13 @@
 <div align="center">
 
 <img src="header.svg" alt="Javier Méndez, Junior Backend Developer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=200&section=header&text=Javier%20M%C3%A9ndez&fontSize=42&fontColor=38bdf8&animation=twinkling" width="100%" alt="Header" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Junior+Backend+Developer;Java+21+%C2%B7+Spring+Boot+3+%C2%B7+TypeScript;Especializaci%C3%B3n+en+IA+%26+Big+Data;Murcia%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  </a>
+</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;IA+%26+Big+Data" alt="Typing SVG" />
 
 <br><br>
