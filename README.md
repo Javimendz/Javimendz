@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<img src="banner.svg" alt="Javier Méndez, Junior Backend Developer" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Junior+Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;IA+%26+Big+Data" alt="Typing SVG" />
+
 
 <br><br>
 
